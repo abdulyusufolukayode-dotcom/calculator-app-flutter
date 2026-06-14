@@ -6,7 +6,7 @@ A clean iOS-style calculator built with Flutter.
 ![Calculator UI](screenshot.png) 
  
 ## Features 
-- Basic arithmetic: +, -, x, ö 
+- Basic arithmetic: +, -, x, Ã· 
 - Clear, +/- , % operations 
 - Responsive button layout 
 - Custom reusable button widget 
