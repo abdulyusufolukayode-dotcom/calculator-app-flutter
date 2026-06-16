@@ -16,3 +16,20 @@ A clean iOS-style calculator built with Flutter.
 flutter pub get 
 flutter run -d windows 
 ``` 
+📱 Download
+
+Windows: calculator-app-windows.zip
+
+Extract the zip → run calculator\_app.exe
+
+
+
+Android: calculator-app-v1.0.apk
+
+Download → tap file → Settings → allow install from this source → Install
+
+
+
+
+
+
